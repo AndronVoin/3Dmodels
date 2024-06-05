@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tour apprev="19982" appversion="7.0.4" start="node12">
   <panorama id="node12">
-    <input overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2782" width="2782" levelbias="0.400" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0">
+    <input overlap="1" leveltileurl="https://github.com/AndronVoin/3Dmodels/tree/main/ponorams/tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2782" width="2782" levelbias="0.400" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0">
       <level preload="0" height="2782" width="2782" predecode="0"/>
       <level preload="0" height="1391" width="1391" predecode="0"/>
       <level preload="0" height="695" width="695" predecode="0"/>
@@ -27,7 +27,7 @@
     <control simulatemass="1" invertwheel="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" zoomcentercursor="1" speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" contextprojections="0" contextvr="1" sensitivity="8" lockedkeyboard="0" rubberband="0"/>
   </panorama>
   <panorama id="node13">
-    <input overlap="1" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2782" width="2782" levelbias="0.400" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0">
+    <input overlap="1" leveltileurl="https://github.com/AndronVoin/3Dmodels/tree/main/ponorams/tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2782" width="2782" levelbias="0.400" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0">
       <level preload="0" height="2782" width="2782" predecode="0"/>
       <level preload="0" height="1391" width="1391" predecode="0"/>
       <level preload="0" height="695" width="695" predecode="0"/>
@@ -52,7 +52,7 @@
     <control simulatemass="1" invertwheel="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" zoomcentercursor="1" speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" contextprojections="0" contextvr="1" sensitivity="8" lockedkeyboard="0" rubberband="0"/>
   </panorama>
   <panorama id="node14">
-    <input overlap="1" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3264" width="2448" levelbias="0.400" cylinder="1" leveltilesize="510" flat="1" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0">
+    <input overlap="1" leveltileurl="https://github.com/AndronVoin/3Dmodels/tree/main/ponorams/tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3264" width="2448" levelbias="0.400" cylinder="1" leveltilesize="510" flat="1" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0">
       <level preload="0" height="3264" width="2448" predecode="0"/>
       <level preload="0" height="1632" width="1224" predecode="0"/>
       <level preload="0" height="816" width="612" predecode="0"/>
@@ -78,7 +78,7 @@
     <control simulatemass="1" invertwheel="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" zoomcentercursor="1" speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" contextprojections="0" contextvr="1" sensitivity="8" lockedkeyboard="0" rubberband="0"/>
   </panorama>
   <panorama id="node15">
-    <input overlap="1" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3264" width="2448" levelbias="0.400" cylinder="1" leveltilesize="510" flat="1" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0">
+    <input overlap="1" leveltileurl="https://github.com/AndronVoin/3Dmodels/tree/main/ponorams/tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3264" width="2448" levelbias="0.400" cylinder="1" leveltilesize="510" flat="1" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0">
       <level preload="0" height="3264" width="2448" predecode="0"/>
       <level preload="0" height="1632" width="1224" predecode="0"/>
       <level preload="0" height="816" width="612" predecode="0"/>
